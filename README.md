@@ -14,7 +14,4 @@ Discord Server
 The Discord server can be found here
 bit.ly/AwesoServ
 
-BOT INFO:
-Prefix "."
-Commands(COMING SOON)
-Made by ---SGYT---#5154 (Add me if you want.)
+
